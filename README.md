@@ -8,7 +8,7 @@ There are two languages in this README, please take the elevator of `Table of Co
 ## Table of Contents | 目錄
 
 - [[English Version] AddPoint System](#en-introduction)
-- [[中文介紹] 加分系統](#introduction)
+- [[中文介紹] 加分系統](#cn-introduction)
 
 <br>
 
@@ -46,7 +46,7 @@ Total cost time are 1.5 months in the situation of study and doing part-time job
 
 <br>
 
-# <span id="introduction">加分系統</span>
+# <span id="cn-introduction">加分系統</span>
 
 # 介紹
 
